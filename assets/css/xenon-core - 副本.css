@@ -956,17 +956,17 @@ body {
 }
 
 .sidebar-menu .main-menu {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     list-style: none
 }
 
 @media screen and (max-width:768px) {
     .sidebar-menu .main-menu {
-        margin-top: 5px;
-        margin-bottom: 5px
+        margin-top: 10px;
+        margin-bottom: 10px
     }
 }
 
@@ -974,7 +974,7 @@ body {
     color: #979898;
     text-decoration: none;
     display: block;
-    padding: 8px 3px;
+    padding: 13px 5px;
     border-bottom: 1px solid #313437
 }
 
@@ -997,7 +997,7 @@ body {
 
 .sidebar-menu .main-menu a>.badge {
     font-size: 75%;
-    line-height: 0.8
+    line-height: 1.2
 }
 
 .sidebar-menu .main-menu a:hover {
