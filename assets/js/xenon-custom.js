@@ -121,7 +121,7 @@ var public_vars = public_vars || {};
 			$("div.scrollable").each(function(i, el)
 			{
 				var $this = $(el),
-					max_height = parseInt(attrDefault($this, 'max-height', 100), 50);
+					max_height = parseInt(attrDefault($this, 'max-height', 100), 5);
 
 				max_height = max_height < 0 ? 100 : max_height;
 
