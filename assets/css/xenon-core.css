@@ -943,11 +943,11 @@ body {
 
 .sidebar-menu .logo-env .settings-icon a {
     color: #979898;
-    line-height: 1
+    line-height: 0.7
 }
 
 .sidebar-menu .logo-env .settings-icon a i {
-    line-height: 1;
+    line-height: 0.7;
     font-size: 12px
 }
 
