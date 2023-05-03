@@ -1222,7 +1222,7 @@ body {
         position: relative
     }
     .sidebar-menu.collapsed .logo-env {
-        padding: 18px 0
+        padding: 15px 0
     }
     .sidebar-menu.collapsed .logo-env .logo-collapsed {
         display: block;
@@ -1252,7 +1252,7 @@ body {
     }
     .sidebar-menu.collapsed .main-menu>li>a>i {
         margin-right: 0;
-        font-size: 16px
+        font-size: 15px
     }
     .sidebar-menu.collapsed .main-menu>li>a>span {
         display: none
@@ -1364,7 +1364,7 @@ body {
     padding: 0 30px;
     margin: 0;
     float: left;
-    height: 85px;
+    height: 60px;
     display: table
 }
 
