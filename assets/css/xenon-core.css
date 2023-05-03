@@ -943,7 +943,7 @@ body {
 
 .sidebar-menu .logo-env .settings-icon a {
     color: #979898;
-    line-height: 0.7
+    line-height: 1
 }
 
 .sidebar-menu .logo-env .settings-icon a i {
@@ -997,7 +997,7 @@ body {
 
 .sidebar-menu .main-menu a>.badge {
     font-size: 75%;
-    line-height: 0.7
+    line-height: 1
 }
 
 .sidebar-menu .main-menu a:hover {
