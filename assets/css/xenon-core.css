@@ -917,7 +917,7 @@ body {
 .sidebar-menu {
     display: table-cell;
     position: relative;
-    width: 280px;
+    width: 200px;
     background: #2c2e2f;
     z-index: 1
 }
@@ -948,7 +948,7 @@ body {
 
 .sidebar-menu .logo-env .settings-icon a i {
     line-height: 1;
-    font-size: 18px
+    font-size: 15px
 }
 
 .sidebar-menu .logo-env .settings-icon a:hover {
