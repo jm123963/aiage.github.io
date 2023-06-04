@@ -1,0 +1,86 @@
+以下是对每行代码的说明：
+
+.box2：这是一个CSS类选择器，用于选择具有box2类的元素。
+
+height: 86px;：设置元素的高度为86像素。
+
+cursor: pointer;：将鼠标指针的样式设置为指针形状，表示该元素可以被点击。
+
+border-radius: 4px;：设置元素的边框圆角半径为4像素。
+
+padding: 0px 30px 0px 30px;：设置元素的内边距（上、右、下、左）为0像素、30像素、0像素、30像素，表示元素内容与边框的间距。
+
+background-color: #fff;：设置元素的背景颜色为白色。
+
+border: 1px solid #e4ecf3;：设置元素的边框为1像素宽的实线，颜色为#e4ecf3。
+
+margin: 20px 0 0 0;：设置元素的外边距（上、右、下、左）为20像素、0像素、0像素、0像素，表示元素与其他元素的间距。
+
+-webkit-transition: all 0.3s ease;、-moz-transition: all 0.3s ease;、-o-transition: all 0.3s ease;、transition: all 0.3s ease;：这些属性用于设置元素的过渡效果，指定了所有属性在0.3秒内以平滑的方式过渡。
+
+.box2:hover：这是一个伪类选择器，表示当鼠标悬停在具有box2类的元素上时应用的样式。
+
+transform: translateY(-6px);、-webkit-transform: translateY(-6px);、-moz-transform: translateY(-6px);：这些属性用于将元素在垂直方向上向上移动6像素，创建悬浮效果。
+
+box-shadow: 0 26px 40px -24px rgba(0, 36, 100, 0.3);、-webkit-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, 0.3);、-moz-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, 0.3);：这些属性用于为元素添加阴影效果，阴影的参数是由偏移量、模糊半径、
+扩展半径和颜色组成。
+
+transform: translateY(-6px);、-webkit-transform: translateY(-6px);、-moz-transform: translateY(-6px);：这些属性与第10行代码相同，用于悬浮效果。
+
+transition: all 0.3s ease;、-webkit-transition: all 0.3s ease;、-moz-transition: all 0.3s ease;、-o-transition: all 0.3s ease;：这些属性与第9行代码相同，用于设置元素过渡效果。
+
+.xe-comment-entry img：这是一个CSS类选择器，用于选择具有xe-comment-entry类的元素下的img元素。
+
+float: left;：将元素向左浮动，使其在同一行中靠左显示。
+
+display: block;：将元素显示为块级元素，使其占据一行的宽度。
+
+margin-right: 10px;：设置元素的右外边距为10像素，用于在元素的右侧留出空白间距。
+
+.xe-comment：这是一个CSS类选择器，用于选择具有xe-comment类的元素。
+
+transform: translateY(-50%);：将元素在垂直方向上向上移动50%，使其垂直居中。
+
+position: absolute;：将元素的定位类型设置为绝对定位，使其相对于其最近的非静态定位的父元素进行定位。
+
+margin-left: 50px;：设置元素的左外边距为50像素，用于在元素的左侧留出空白间距。
+
+top: 50%;：将元素相对于其包含块的上边距定位为50%，使其垂直居中。
+
+.xe-comment p：这是一个CSS类选择器，用于选择具有xe-comment类的元素下的p元素。
+
+margin-bottom: 0px;：设置元素的下外边距为0像素，消除底部间距。
+
+margin-right: 15px;：设置元素的右外边距为15像素，用于在元素的右侧留出空白间距。
+
+.overflowClip_1：这是一个CSS类选择器，用于选择具有overflowClip_1类的元素。
+
+overflow: hidden;：将元素的溢出内容隐藏，不显示在元素的边界之外。
+
+text-overflow: ellipsis;：当文本溢出时，用省略号（"..."）表示。
+
+display: -webkit-box;：将元素显示为块级弹性容器。
+
+-webkit-line-clamp: 1;：限制元素显示的文本行数为1行，多余的文本将被截断。
+
+-webkit-box-orient: vertical;：设置元素内部内容的排列方向为垂直方向。
+
+.overflowClip_2：这是一个CSS类选择器，用于选择具有overflowClip_2类的元素。
+
+overflow: hidden;：将元素的溢出内容隐藏，不显示在元素的边界之外。
+
+text-overflow: ellipsis;：当文本溢出时，用省略号（"..."）表示。
+
+display: -webkit-box;：将元素显示为块级弹性容器。
+
+-webkit-line-clamp: 2;：限制元素显示的文本行数为2行，多余的文本将被截断。
+
+-webkit-box-orient: vertical;：设置元素内部内容的排列方向为垂直方向。
+
+.submit-tag：这是一个CSS类选择器，用于选择具有submit-tag类的元素。
+
+margin-top: 50px;：设置元素的上外边距为50像素，用于在元素的顶部留出空白间距。
+
+.img-circle：这是一个CSS类选择器，用于选择具有img-circle类的元素。
+
+padding: 7px 0;：设置元素的内边距（上、右、下、左）为7像素、0像素，用于调整元素内部内容与边框的间距。
